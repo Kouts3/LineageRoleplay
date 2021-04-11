@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an feature/idea for the server
-title: ''
-labels: ''
+title: "[FEATURE] "
+labels: enhancement
 assignees: ''
 
 ---
