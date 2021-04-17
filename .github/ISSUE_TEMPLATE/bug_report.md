@@ -7,24 +7,34 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and detailed description of what the bug is.
+## [BUG REPORT]
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Describe the bug** *(A clear and detailed description of what the bug is):*
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+    Describe bug here...
 
-**Video Clip of the Issue Happening**
-If applicable, add a link or links to a clip showing the bug to help explain your problem.
+**To Reproduce** *(Steps to reproduce the behavior):*
+  
+    1. Go to '...'
+    2. Click on '....'
+    3. Scroll down to '....'
+    4. See error
 
-**Additional context**
-Add any other context about the problem here.
+**Expected behavior** *(A clear and concise description of what you expected to happen):*
+
+    Expected behavior details here...
+
+**Video Clip of the Issue Happening** *(If applicable, add a link or links to a clip showing the bug to help explain your proble):*
+    
+    Links to video clips go here (include time stamps if necessary)...
+
+**Additional context** *(Add any other context about the problem here):*
+    
+    Put any additional details that offer additional context here...
+    
+**Screenshots** *(If applicable, add screenshots to help explain your problem):*
+   
+    Screenshots go here...
+
+
