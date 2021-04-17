@@ -21,6 +21,6 @@ assignees: ''
 
     Enter details about permissions, scripts, or desired textures for request
 
-**SOP REQUEST**
+**SOP Request**
 
     Complete your SOP request in a Google/Office365 document format and include a link to the document here
